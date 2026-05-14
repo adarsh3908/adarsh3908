@@ -4,7 +4,7 @@
 
 ### AI & Data Science Engineer • Systems Thinker • Impact-Oriented Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Exploring+AI%2C+ML+%26+Agentic+AI;Building+Systems+Driven+By+Data;End-to-End+AI+Models+%26+Deployment;Leadership+%7C+Strategy+%7C+Analytical+Thinking" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Exploring+AI%2C+ML+%26+Agentic+AI;Building+Systems+Driven+By+Data;End-to-End+Impact+With+AI+Solutions;Optimizing+Real-World+Outcomes;Always+Learning+%26+Inventing"/>
 
 </div>
 
@@ -121,25 +121,22 @@ class Adarsh:
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarsh3908&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh3908&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh3908&show_icons=true&theme=tokyonight&hide_border=true" alt="adarsh3908's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh3908&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh3908&theme=tokyonight&hide_border=true" alt="adarsh3908's GitHub Streak" width="80%"/>
+</p>
 
 ---
 
-# Contribution Graph
+# 🟩 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh3908&theme=github-dark&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh3908&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
